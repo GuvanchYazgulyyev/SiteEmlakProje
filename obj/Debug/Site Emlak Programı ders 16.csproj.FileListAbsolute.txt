@@ -1,0 +1,32 @@
+C:\Users\Dell\source\repos\C# ders 16\Site Emlak Programı ders 16\Site Emlak Programı ders 16\bin\Debug\Site Emlak Programı ders 16.exe.config
+C:\Users\Dell\source\repos\C# ders 16\Site Emlak Programı ders 16\Site Emlak Programı ders 16\bin\Debug\Site Emlak Programı ders 16.exe
+C:\Users\Dell\source\repos\C# ders 16\Site Emlak Programı ders 16\Site Emlak Programı ders 16\bin\Debug\Site Emlak Programı ders 16.pdb
+C:\Users\Dell\source\repos\C# ders 16\Site Emlak Programı ders 16\Site Emlak Programı ders 16\obj\Debug\Site Emlak Programı ders 16.csprojAssemblyReference.cache
+C:\Users\Dell\source\repos\C# ders 16\Site Emlak Programı ders 16\Site Emlak Programı ders 16\obj\Debug\Site_Emlak_Programı_ders_16.Form1.resources
+C:\Users\Dell\source\repos\C# ders 16\Site Emlak Programı ders 16\Site Emlak Programı ders 16\obj\Debug\Site_Emlak_Programı_ders_16.Properties.Resources.resources
+C:\Users\Dell\source\repos\C# ders 16\Site Emlak Programı ders 16\Site Emlak Programı ders 16\obj\Debug\Site Emlak Programı ders 16.csproj.GenerateResource.cache
+C:\Users\Dell\source\repos\C# ders 16\Site Emlak Programı ders 16\Site Emlak Programı ders 16\obj\Debug\Site Emlak Programı ders 16.csproj.CoreCompileInputs.cache
+C:\Users\Dell\source\repos\C# ders 16\Site Emlak Programı ders 16\Site Emlak Programı ders 16\obj\Debug\Site Emlak Programı ders 16.exe
+C:\Users\Dell\source\repos\C# ders 16\Site Emlak Programı ders 16\Site Emlak Programı ders 16\obj\Debug\Site Emlak Programı ders 16.pdb
+C:\Users\Dell\source\repos\C# ders 16\Site Emlak Programı ders 16\Site Emlak Programı ders 16\obj\Debug\Site_Emlak_Programı_ders_16.Form2.resources
+E:\source\repos\C# ders 16\Site Emlak Programı ders 16\Site Emlak Programı ders 16\bin\Debug\Site Emlak Programı ders 16.exe.config
+E:\source\repos\C# ders 16\Site Emlak Programı ders 16\Site Emlak Programı ders 16\bin\Debug\Site Emlak Programı ders 16.exe
+E:\source\repos\C# ders 16\Site Emlak Programı ders 16\Site Emlak Programı ders 16\bin\Debug\Site Emlak Programı ders 16.pdb
+E:\source\repos\C# ders 16\Site Emlak Programı ders 16\Site Emlak Programı ders 16\obj\Debug\Site Emlak Programı ders 16.csprojAssemblyReference.cache
+E:\source\repos\C# ders 16\Site Emlak Programı ders 16\Site Emlak Programı ders 16\obj\Debug\Site_Emlak_Programı_ders_16.Form1.resources
+E:\source\repos\C# ders 16\Site Emlak Programı ders 16\Site Emlak Programı ders 16\obj\Debug\Site_Emlak_Programı_ders_16.Form2.resources
+E:\source\repos\C# ders 16\Site Emlak Programı ders 16\Site Emlak Programı ders 16\obj\Debug\Site_Emlak_Programı_ders_16.Properties.Resources.resources
+E:\source\repos\C# ders 16\Site Emlak Programı ders 16\Site Emlak Programı ders 16\obj\Debug\Site Emlak Programı ders 16.csproj.GenerateResource.cache
+E:\source\repos\C# ders 16\Site Emlak Programı ders 16\Site Emlak Programı ders 16\obj\Debug\Site Emlak Programı ders 16.exe
+E:\source\repos\C# ders 16\Site Emlak Programı ders 16\Site Emlak Programı ders 16\obj\Debug\Site Emlak Programı ders 16.pdb
+F:\Guwanç Son Sınıf Yedek\D Disk\source\repos\C# ders 16\Site Emlak Programı ders 16\Site Emlak Programı ders 16\bin\Debug\Site Emlak Programı ders 16.exe.config
+F:\Guwanç Son Sınıf Yedek\D Disk\source\repos\C# ders 16\Site Emlak Programı ders 16\Site Emlak Programı ders 16\bin\Debug\Site Emlak Programı ders 16.exe
+F:\Guwanç Son Sınıf Yedek\D Disk\source\repos\C# ders 16\Site Emlak Programı ders 16\Site Emlak Programı ders 16\bin\Debug\Site Emlak Programı ders 16.pdb
+F:\Guwanç Son Sınıf Yedek\D Disk\source\repos\C# ders 16\Site Emlak Programı ders 16\Site Emlak Programı ders 16\obj\Debug\Site Emlak Programı ders 16.csprojAssemblyReference.cache
+F:\Guwanç Son Sınıf Yedek\D Disk\source\repos\C# ders 16\Site Emlak Programı ders 16\Site Emlak Programı ders 16\obj\Debug\Site_Emlak_Programı_ders_16.Form1.resources
+F:\Guwanç Son Sınıf Yedek\D Disk\source\repos\C# ders 16\Site Emlak Programı ders 16\Site Emlak Programı ders 16\obj\Debug\Site_Emlak_Programı_ders_16.Form2.resources
+F:\Guwanç Son Sınıf Yedek\D Disk\source\repos\C# ders 16\Site Emlak Programı ders 16\Site Emlak Programı ders 16\obj\Debug\Site_Emlak_Programı_ders_16.Properties.Resources.resources
+F:\Guwanç Son Sınıf Yedek\D Disk\source\repos\C# ders 16\Site Emlak Programı ders 16\Site Emlak Programı ders 16\obj\Debug\Site Emlak Programı ders 16.csproj.GenerateResource.cache
+F:\Guwanç Son Sınıf Yedek\D Disk\source\repos\C# ders 16\Site Emlak Programı ders 16\Site Emlak Programı ders 16\obj\Debug\Site Emlak Programı ders 16.csproj.CoreCompileInputs.cache
+F:\Guwanç Son Sınıf Yedek\D Disk\source\repos\C# ders 16\Site Emlak Programı ders 16\Site Emlak Programı ders 16\obj\Debug\Site Emlak Programı ders 16.exe
+F:\Guwanç Son Sınıf Yedek\D Disk\source\repos\C# ders 16\Site Emlak Programı ders 16\Site Emlak Programı ders 16\obj\Debug\Site Emlak Programı ders 16.pdb
